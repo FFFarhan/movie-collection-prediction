@@ -37,7 +37,7 @@ To use this repository, follow these steps:
 2. **Install Dependencies**: Install the required Python packages listed in the requirements.txt file using pip.    `pip install -r requirements.txt`
 3. **Run the Jupyter Notebook**: Open the movie_collection_prediction.ipynb notebook in a Jupyter environment. Execute the code cells in the notebook to load the data, perform analysis, visualize the results, and build predictive models.
 
-## Tutorial/How to Run
+## Tutorial
 - **Check tutorial.md**
 
 ## Analysis Workflow
